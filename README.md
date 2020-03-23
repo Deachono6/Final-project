@@ -1,6 +1,8 @@
 # Final-project
 Final project
 
+GUI : https://www.figma.com/file/KeP5bdzI9klRUsFKfPVYaf/Admin?node-id=0%3A1
+
 Prototype User: https://www.figma.com/proto/qmsNAPWYDFeHLFxTp1cItA/UI?node-id=53%3A0&scaling=scale-down
 
 Prototype Admin: https://www.figma.com/proto/KeP5bdzI9klRUsFKfPVYaf/Admin?node-id=2%3A2&scaling=scale-down
