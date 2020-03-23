@@ -3,7 +3,7 @@ Final project
 
 Prototype User: https://www.figma.com/proto/qmsNAPWYDFeHLFxTp1cItA/UI?node-id=53%3A0&scaling=scale-down
 
-Prototype Admin: https://www.figma.com/proto/qmsNAPWYDFeHLFxTp1cItA/UI?node-id=53%3A0&scaling=scale-down
+Prototype Admin: https://www.figma.com/proto/KeP5bdzI9klRUsFKfPVYaf/Admin?node-id=4%3A0&scaling=scale-down
 
 61020627 นายเดชสวัสดิ์ นกพึ่ง
 
