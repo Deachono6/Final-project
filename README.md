@@ -5,6 +5,8 @@ Prototype User: https://www.figma.com/proto/qmsNAPWYDFeHLFxTp1cItA/UI?node-id=53
 
 Prototype Admin: https://www.figma.com/proto/KeP5bdzI9klRUsFKfPVYaf/Admin?node-id=2%3A2&scaling=scale-down
 
+Youtube : https://www.youtube.com/watch?v=ypAgjzkSfX8&feature=youtu.be
+
 แบบสอบถาม: https://docs.google.com/forms/d/e/1FAIpQLScIXZfstbnC33z0XA34eHavsn7J-pw9ldlNUt2eD_AoF7ldMQ/viewform?usp=sf_link
 
 61020627 นายเดชสวัสดิ์ นกพึ่ง
